@@ -72,7 +72,7 @@ if (empty($_GET['q'])) {
                                 <p class="text-secondary">
                                     ' . shorten($postbody, 60) . '... <a href="blog?id=' . $row["id"] . '" style="text-decoration:none;"><span class="text-secondary font-weight-bold">View more</span></a>
                                 </p>
-                                <p class="text-muted"><span class="text-secondary font-weight-bold">' . $row["views"] . ' views</span> - <span class="text-secondary font-weight-bold">' . $row["post_date"] . '</span></p>
+                                <p class="text-muted"><span class="text-secondary font-weight-bold">' . $row["views"] . ' view(s)</span> - <span class="text-secondary font-weight-bold">' . $row["post_date"] . '</span></p>
                             </div>
                             <div class="text-muted small text-center align-self-center">
                                 <span class="d-none d-sm-inline-block"><i class="far fa-eye"></i>' . $row["id"] . '</span>
