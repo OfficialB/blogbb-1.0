@@ -16,7 +16,7 @@ How to get started with BlogBB.
 PHP (Only tested on 7.1)
 MySQL
 Custom domain ([Get a free domain here](https://freenom.com))
-Hosting for your domain. ([A good free host](https://ct8.p))
+Hosting for your domain. ([A good free host](https://ct8.pl))
 
 ## Installation
 #### How to install BlogBB
