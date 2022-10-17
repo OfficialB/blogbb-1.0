@@ -5,6 +5,7 @@ BlogBB is an open source blog software written in PHP. It's easy to get started 
 
 # Credit
 Scott (piss#6669) - i did everything lol
+
 B (Official B#0001) - maintaining the project
 
 Credit to some people in the lesbian anime girls ONLY gc for helping me test. (I'm mainly just talking about Relephonus).
