@@ -33,7 +33,7 @@ Default admin panel login:
 Username: Admin
 Password: BlogBB Admin
 ```
-You can change this by creating your own password with ```.htaccess```. CPanel has the ability to create one for you. If you don't want to use a password, you can always rename the admin directory and remove the ```.htaccess``` files. (Not recommended)
+You can change this by creating your own password with ```.htaccess```. If you use it, CPanel has the ability to create one for you. If you don't want to use a password, you can always rename the admin directory and remove the ```.htaccess``` files. (Not recommended)
 
 ---
 
