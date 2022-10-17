@@ -16,7 +16,7 @@ try {
 } catch (\PDOException $e) {
      throw new \PDOException($e->getMessage(), (int)$e->getCode());
 }
-
+# Don't forget to change these!
 $siteinfo = $pdo->query('SELECT * FROM info');
 foreach ($siteinfo as $si)
 {

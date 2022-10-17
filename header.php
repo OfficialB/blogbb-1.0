@@ -1,7 +1,7 @@
 <?php
 
 if ($sitestatus == 1) {
-    header ("Location: " . $siteurl . "offline");
+    header ("Location: " . $siteurl . "/offline"); # fixed the offline redirect - b
 }
 
 if(!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
