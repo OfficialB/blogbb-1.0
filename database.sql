@@ -33,6 +33,8 @@ CREATE TABLE `info` (
   `img` varchar(255) NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
+/* DO NOT REMOVE THE INFO TABLE.*/
+
 INSERT INTO `info` (`maintenance`, `name`, `description`, `announcement`, `url`, `img`) VALUES
 (0, 'BlogBB Site', 'Hello! Thank you for choosing BlogBB.', 'Please read the <a href=\"README.md\">README</a> for help with setting up BlogBB.', 'http://example.com', 'https://cdn.wallpapersafari.com/18/80/pY8JP7.jpg');
 
