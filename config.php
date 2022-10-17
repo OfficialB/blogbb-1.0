@@ -20,10 +20,10 @@ try {
 $siteinfo = $pdo->query('SELECT * FROM info');
 foreach ($siteinfo as $si)
 {
-    $sitename = $si['name'];
-    $sitedesc = $si['description'];
+    $sitename = $si['Testing Blog'];
+    $sitedesc = $si['This blog is a test for Github!'];
     $sitestatus = $si['maintenance'];
-    $siteannouncement = $si['announcement'];
+    $siteannouncement = $si['Hello, World!'];
     $siteurl = $si['url'];
     $siteimg = $si['img'];
 }
