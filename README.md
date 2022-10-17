@@ -12,7 +12,7 @@ B (Official B#0001) - maintaining the project
 How to get started with BlogBB.
 
 ## Requirements
-#### Requirements for BlogBB.
+#### To install BlogBB, you will need the following.
 - PHP (Only tested on 7.1)
 - MySQL
 - Custom domain ([Get a free domain here](https://freenom.com))
