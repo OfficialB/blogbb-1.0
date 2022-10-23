@@ -5,7 +5,7 @@ include ("../styles.html");
 <title><?php echo $sitename; ?> Admin</title>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
  <div class="container">
-  <a class="navbar-brand" href="index.php">Admin</a>
+  <a class="navbar-brand" href="index.php">Admin Panel</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
