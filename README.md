@@ -15,7 +15,7 @@ How to get started with BlogBB.
 #### To install BlogBB, you will need the following.
 - PHP (Only tested on 7.1)
 - MySQL
-- Custom domain ([Get a free domain here](https://freenom.com))
+- Domain ([Get a free domain here](https://freenom.com))
 - Hosting for your domain. ([A good free host](https://ct8.pl))
 
 ## Installation
