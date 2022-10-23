@@ -49,7 +49,7 @@ You can change this by creating your own password with ```.htaccess```. If you u
 
 [MIT License](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2021 BlogBB Team
+Copyright (c) 2021 - 2022 BlogBB Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
